@@ -1,5 +1,5 @@
 👋 Hi, I’m @sarahdurks  
-🌱 I’m currently enrolled in UC Berkeley's coding bootcamp, learning:
+🌱 I’m currently enrolled in UC Berkeley's coding bootcamp to learn:
 
 
 > HTML, CSS, and JavaScript
