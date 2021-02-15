@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/77648727/107983648-0fb34700-6f7b-11eb-897d-ea0e6255347d.png" alt="Hero image" style="max-width:100%;">
 
 ## About Me
-👋   Hi, I’m @sarahdurks  
-📍   Bay Native, Berkely Grad  
+Hi, I’m @sarahdurks 👋 
+Bay Native, Berkely Grad 📍   
 
 ## What I do
 I do the whole SEO digital marketing & growth consulting thing 📈  
@@ -11,7 +11,7 @@ I do the whole SEO digital marketing & growth consulting thing 📈
 - [x] Now at [The Action Network](https://www.actionnetwork.com/), a sports betting media company, driving audience expansion & new bettor affiliate acquisition as states legalize
 
 ## What I'm up to now...
-🌱   I’m enrolled in UC Berkeley's coding bootcamp to round out my technical skillset, covering:
+I’m enrolled in UC Berkeley's coding bootcamp to round out my technical skillset, 🌱 covering:
 
 > HTML, CSS, and JavaScript. 
 > DOM manipulation. 
@@ -24,7 +24,7 @@ I do the whole SEO digital marketing & growth consulting thing 📈
 > Python. 
 > AWS. 
 
-✨   more to come
+more to come ✨   
 
 ## Get in Touch
 ![code-box-fill](https://user-images.githubusercontent.com/77648727/107986417-dc73b680-6f80-11eb-860d-5eedc0203bdc.png) [My Website](https://www.sarahdurkin.com) |
