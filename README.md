@@ -2,7 +2,7 @@
 
 ## About Me
 Hi, I’m @sarahdurks  👋    
-Bay Native, Berkeley Grad  📍   
+Bay Native, Berkeley Grad, still here  📍   
 Closest thing I've got to a superpower is PowerPoint skills :nerd_face:   
 I do miss the old Kanye :crown: 
 
