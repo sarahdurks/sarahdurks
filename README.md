@@ -3,7 +3,8 @@
 ## About Me
 Hi, I’m @sarahdurks  👋    
 Bay Native, Berkely Grad  📍   
-I do miss the old Kanye - "Watch The Throne" was classic :crown: 
+Closest thing I've got to a superpower is PowerPoint skills :nerd_face:
+I do miss the old Kanye :crown: 
 
 ## What I do
 I do the whole SEO digital marketing & growth consulting thing  📈   
