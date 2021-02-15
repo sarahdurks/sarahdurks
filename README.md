@@ -24,3 +24,9 @@ I do the whole SEO digital marketing & growth consulting thing 📈
 
 ✨  more to come
 
+<i class="ri-linkedin-fill"></i> https://www.linkedin.com/in/sarahdurks/
+<i class="ri-gitlab-fill"></i> https://gitlab.com/sarahdurks
+<i class="ri-codepen-fill"></i> https://codepen.io/sarahdurks
+<i class="ri-stack-overflow-fill"></i> https://stackoverflow.com/users/15048540/sarahdurks
+<i class="ri-mail-fill"></i> contact@sarahdurkin.com
+<i class="ri-home-4-fill"></i> https://www.sarahdurkin.com
