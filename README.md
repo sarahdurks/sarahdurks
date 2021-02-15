@@ -3,7 +3,7 @@
 ## About Me
 Hi, I’m @sarahdurks  👋    
 Bay Native, Berkely Grad  📍   
-I do miss the old Kanye (Watch The Throne was classic :crown:) 
+I do miss the old Kanye - "Watch The Throne" was classic :crown: 
 
 ## What I do
 I do the whole SEO digital marketing & growth consulting thing  📈   
