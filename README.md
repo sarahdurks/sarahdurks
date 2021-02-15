@@ -2,9 +2,9 @@
 
 👋 Hi, I’m @sarahdurks  
 📍 Bay Native, Berkely Grad  
-📈 I do the whole SEO digital marketing & consulting thing
-:woman_technologist: agency background working with brands like crunchbase & Adobe 
-:football: now at The Action Network, a sports betting media start up 
+📈 I do the whole SEO digital marketing & consulting thing  
+:woman_technologist: agency background working with brands like crunchbase & Adobe  
+:football: now at The Action Network, a sports betting media start up  
 
 
 🌱 I’m enrolled in UC Berkeley's coding bootcamp to round out my technical skillset, covering:
