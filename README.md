@@ -26,8 +26,8 @@ I’m enrolled in UC Berkeley's coding bootcamp to round out my technical skills
 > AWS. 
 
 more to come ✨   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahdurks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahdurks&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahdurks)
 ## Get in Touch
 ![code-box-fill](https://user-images.githubusercontent.com/77648727/107986417-dc73b680-6f80-11eb-860d-5eedc0203bdc.png) [My Website](https://www.sarahdurkin.com) |
 ![linkedin-box-fill](https://user-images.githubusercontent.com/77648727/107986418-dc73b680-6f80-11eb-9a8f-9aae45a08ab7.png)  [LinkedIn](https://www.linkedin.com/in/sarahdurks/) |
