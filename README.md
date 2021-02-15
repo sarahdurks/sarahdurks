@@ -3,7 +3,7 @@
 ## About Me
 Hi, I’m @sarahdurks  👋    
 Bay Native, Berkely Grad  📍   
-Closest thing I've got to a superpower is PowerPoint skills :nerd_face:
+Closest thing I've got to a superpower is PowerPoint skills :nerd_face:   
 I do miss the old Kanye :crown: 
 
 ## What I do
