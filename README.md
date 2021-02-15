@@ -12,7 +12,7 @@ I do the whole SEO digital marketing & growth consulting thing  📈
 - [x] Scored 5/5 in SEO, Vision, Market Approach, and Execution roadmap in 2019's Q3 Forrester Wave for Performance Marketing (Wpromote also ranked #1, [check it out](https://www.wpromote.com/forrester-wave))
 - [x] Now at [The Action Network](https://www.actionnetwork.com/), a sports betting media company, driving audience expansion & new bettor affiliate acquisition as states legalize  
 
-## What I'm up to now...
+## What I'm up to here...
 I’m enrolled in UC Berkeley's coding bootcamp to round out my technical skillset, 🌱  covering:
 
 > HTML, CSS, and JavaScript. 
