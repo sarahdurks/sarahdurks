@@ -12,7 +12,7 @@ I do the whole SEO digital marketing & growth consulting thing  📈
 - [x] Now at [The Action Network](https://www.actionnetwork.com/), a sports betting media company, driving audience expansion & new bettor affiliate acquisition as states legalize  
 
 ## What I'm up to here...
-I’m enrolled in UC Berkeley's coding bootcamp to round out my technical skillset, 🌱  covering:
+I’m enrolled in UC Berkeley's coding bootcamp to round out my technical skillset, 🌱   covering:
 
 > HTML, CSS, and JavaScript. 
 > DOM manipulation. 
