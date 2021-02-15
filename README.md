@@ -1,11 +1,11 @@
 <img src="https://user-images.githubusercontent.com/77648727/107983648-0fb34700-6f7b-11eb-897d-ea0e6255347d.png" alt="Hero image" style="max-width:100%;">
 
 ## About Me
-Hi, I’m @sarahdurks 👋 
+Hi, I’m @sarahdurks 👋    
 Bay Native, Berkely Grad 📍   
 
 ## What I do
-I do the whole SEO digital marketing & growth consulting thing 📈  
+I do the whole SEO digital marketing & growth consulting thing 📈   
 - [x] Start up + agency background working with brands like crunchbase & Adobe
 - [x] Scored 5/5 in SEO, Vision, Market Approach, and Execution roadmap in 2019's Q3 Forrester Wave for Performance Marketing (Wpromote also ranked #1, [check it out](https://www.wpromote.com/forrester-wave))
 - [x] Now at [The Action Network](https://www.actionnetwork.com/), a sports betting media company, driving audience expansion & new bettor affiliate acquisition as states legalize
