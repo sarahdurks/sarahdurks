@@ -26,9 +26,7 @@ I’m enrolled in UC Berkeley's coding bootcamp to round out my technical skills
 > AWS. 
 
 So far:
-
-
-![Group 40 (1)](https://user-images.githubusercontent.com/77648727/109895506-2f699100-7c44-11eb-9229-3e55220d05c0.png)
+![Frame 38](https://user-images.githubusercontent.com/77648727/109898241-c0426b80-7c48-11eb-8641-aab52552e5b5.png)
 Code Refactor
 
 more to come ✨   
