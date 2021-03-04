@@ -1,3 +1,4 @@
+
 <img src="https://user-images.githubusercontent.com/77648727/109894609-a3a33500-7c42-11eb-9174-b3bde8c5c7a1.png" alt="Hero image" style="max-width:80%;">
 
 ## About Me
@@ -25,6 +26,12 @@ I’m enrolled in UC Berkeley's coding bootcamp to round out my technical skills
 > Python. 
 > AWS. 
 
+So far:
+
+
+![Group 40 (1)](https://user-images.githubusercontent.com/77648727/109895506-2f699100-7c44-11eb-9229-3e55220d05c0.png)
+Code Refactor
+
 more to come ✨   
 
 ## Get in Touch
@@ -33,6 +40,5 @@ more to come ✨
 ![twitter-fill](https://user-images.githubusercontent.com/77648727/107988518-0d55ea80-6f85-11eb-8cb2-91ccc6a55767.png) [Twitter](https://twitter.com/sarahdurks_) | 
 ![codepen-line](https://user-images.githubusercontent.com/77648727/107986419-dd0c4d00-6f80-11eb-83b9-ed3a67bd4eab.png) [CodePen](https://codepen.io/sarahdurks) |
 ![gitlab-fill](https://user-images.githubusercontent.com/77648727/107986420-dd0c4d00-6f80-11eb-93eb-f5bea5f1f88a.png)  [GitLab](https://gitlab.com/sarahdurks)
-
 
 
