@@ -25,10 +25,6 @@ I’m enrolled in UC Berkeley's coding bootcamp to round out my technical skills
 > Python. 
 > AWS. 
 
-So far:
-![Group 44](https://user-images.githubusercontent.com/77648727/109898912-dac91480-7c49-11eb-8938-1c5685b60e00.png)     
-HTML/CSS Code Refactor [Repo](https://github.com/sarahdurks/horiseon-bootcamp)
-
 more to come ✨   
 
 ## Get in Touch
