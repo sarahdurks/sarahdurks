@@ -1,4 +1,4 @@
-![Frame 41 (2)](https://user-images.githubusercontent.com/77648727/109900387-24b2fa00-7c4c-11eb-8771-08336504d4af.png)
+![Frame 44](https://user-images.githubusercontent.com/77648727/109908934-0fdd6300-7c5a-11eb-803c-24ea187198c5.png)
 
 ## About Me
 Hi, I’m @sarahdurks  👋    
