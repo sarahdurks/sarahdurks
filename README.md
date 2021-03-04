@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/77648727/107983648-0fb34700-6f7b-11eb-897d-ea0e6255347d.png" alt="Hero image" style="max-width:100%;">
+<img src="https://user-images.githubusercontent.com/77648727/109894609-a3a33500-7c42-11eb-9174-b3bde8c5c7a1.png" alt="Hero image" style="max-width:100%;">
 
 ## About Me
 Hi, I’m @sarahdurks  👋    
