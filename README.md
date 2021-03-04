@@ -1,4 +1,4 @@
-![Frame 41](https://user-images.githubusercontent.com/77648727/109900114-ae15fc80-7c4b-11eb-86da-bdd2f60fd08f.png)
+![Frame 41 (1)](https://user-images.githubusercontent.com/77648727/109900245-e7e70300-7c4b-11eb-8f3c-5a93d8a51960.png)
 
 
 ## About Me
