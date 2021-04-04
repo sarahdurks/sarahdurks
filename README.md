@@ -20,7 +20,7 @@ I’m enrolled in UC Berkeley's coding bootcamp to round out my technical skills
 > JSON + AJAX.  
 > React. 
 > Node.js. 
-> SQL + NoSQL. 
+> SQL + NoSQL.  
 > Python. 
 > AWS. 
 
