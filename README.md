@@ -17,7 +17,7 @@ I’m enrolled in UC Berkeley's coding bootcamp to round out my technical skills
 > HTML, CSS, and JavaScript. 
 > DOM manipulation. 
 > jQuery. 
-> JSON + AJAX. 
+> JSON + AJAX.  
 > React. 
 > Node.js. 
 > SQL + NoSQL. 
