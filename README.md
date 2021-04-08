@@ -3,7 +3,7 @@
 ## About Me
 Hi, I’m @sarahdurks  👋    
 Bay native, Berkeley grad, still local 📍    
-Closest thing I've got to a superpower is PowerPoint skills :nerd_face:    
+Closest thing I've got to a superpower is communicating via PowerPoint skills :nerd_face:    
 
 ## What I do
 I do the whole SEO digital marketing & growth consulting thing  📈   
