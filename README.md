@@ -2,8 +2,6 @@
 
 ## About Me
 Hi, I’m @sarahdurks  👋    
-Bay native, Berkeley grad, still local 📍    
-
 ## What I do
 I do the whole SEO digital marketing & growth consulting thing  📈   
 - [x] Start up + agency background working with brands like crunchbase & Adobe
