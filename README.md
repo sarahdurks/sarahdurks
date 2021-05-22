@@ -20,7 +20,6 @@ I do the whole SEO digital marketing & growth consulting thing  📈
 ## Get in Touch
 ![code-box-fill](https://user-images.githubusercontent.com/77648727/107986417-dc73b680-6f80-11eb-860d-5eedc0203bdc.png) [My Website](https://www.sarahdurkin.com) |
 ![linkedin-box-fill](https://user-images.githubusercontent.com/77648727/107986418-dc73b680-6f80-11eb-9a8f-9aae45a08ab7.png)  [LinkedIn](https://www.linkedin.com/in/sarahdurks/) |
-![twitter-fill](https://user-images.githubusercontent.com/77648727/107988518-0d55ea80-6f85-11eb-8cb2-91ccc6a55767.png) [Twitter](https://twitter.com/sarahdurks_) | 
 ![codepen-line](https://user-images.githubusercontent.com/77648727/107986419-dd0c4d00-6f80-11eb-83b9-ed3a67bd4eab.png) [CodePen](https://codepen.io/sarahdurks) |
 ![gitlab-fill](https://user-images.githubusercontent.com/77648727/107986420-dd0c4d00-6f80-11eb-93eb-f5bea5f1f88a.png)  [GitLab](https://gitlab.com/sarahdurks)
  
