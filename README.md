@@ -2,15 +2,33 @@
 
 ## About Me
 - Hi, I’m @sarahdurks  👋   
-- Currently enrolled UC Berkeley's coding bootcamp and here to round out my technical skillset
-- I'm Head of Search at [The Action Network](https://www.actionnetwork.com/), a sports betting media company, driving audience expansion & new bettor affiliate acquisition as states legalize  
+- Currently enrolled UC Berkeley's coding bootcamp and here to round out my technical skillset... 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahdurks&show_icons=false&theme=tokyonight&hide=contribs,stars,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahdurks&theme=tokyonight&layout=compact)
+
+
+![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
+![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+
 
 ## What I do
 I do the whole SEO digital marketing & growth consulting thing  📈   
+- [x] I'm Head of Search at [The Action Network](https://www.actionnetwork.com/), a sports betting media company, driving audience expansion & new bettor affiliate acquisition as states legalize  
 - [x] Start up + agency background working with brands like crunchbase & Adobe
 - [x] Scored 5/5 in SEO, Vision, Market Approach, and Execution roadmap in 2019's Q3 Forrester Wave for Performance Marketing (Wpromote also ranked #1, [check it out](https://www.wpromote.com/forrester-wave))
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahdurks&show_icons=true&theme=tokyonight)
 
 
 ## Get in Touch
