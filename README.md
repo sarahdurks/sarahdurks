@@ -1,29 +1,17 @@
 ![Frame 44 (1)](https://user-images.githubusercontent.com/77648727/109909207-8a0de780-7c5a-11eb-8534-428d91ad6dfa.png) 
 
 ## About Me
-Hi, I’m @sarahdurks  👋   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahdurks&show_icons=true&theme=tokyonight)
+- Hi, I’m @sarahdurks  👋   
+- Currently enrolled UC Berkeley's coding bootcamp and here to round out my technical skillset
+- I'm Head of Search at [The Action Network](https://www.actionnetwork.com/), a sports betting media company, driving audience expansion & new bettor affiliate acquisition as states legalize  
 
 ## What I do
 I do the whole SEO digital marketing & growth consulting thing  📈   
 - [x] Start up + agency background working with brands like crunchbase & Adobe
 - [x] Scored 5/5 in SEO, Vision, Market Approach, and Execution roadmap in 2019's Q3 Forrester Wave for Performance Marketing (Wpromote also ranked #1, [check it out](https://www.wpromote.com/forrester-wave))
-- [x] Now at [The Action Network](https://www.actionnetwork.com/), a sports betting media company, driving audience expansion & new bettor affiliate acquisition as states legalize  
 
-## What I'm up to here...
-I’m enrolled in UC Berkeley's coding bootcamp to round out my technical skillset, 🌱   covering:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahdurks&show_icons=true&theme=tokyonight)
 
-> HTML, CSS, and JavaScript.
-> DOM manipulation.
-> jQuery
-> JSON + AJAX.
-> React.
-> Node.js.
-> SQL + NoSQL.
-> Python.
-> AWS. 
-
-more to come ✨   
 
 ## Get in Touch
 ![code-box-fill](https://user-images.githubusercontent.com/77648727/107986417-dc73b680-6f80-11eb-860d-5eedc0203bdc.png) [My Website](https://www.sarahdurkin.com) |
