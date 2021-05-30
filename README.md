@@ -2,12 +2,7 @@
 
 ## About Me
 - Hi, I’m @sarahdurks  👋   
-- Currently enrolled UC Berkeley's coding bootcamp and here to round out my technical skillset... 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahdurks&show_icons=false&theme=tokyonight&hide=contribs,stars,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahdurks&theme=tokyonight&layout=compact)
-
+- Currently enrolled UC Berkeley's coding bootcamp and here to round out my technical skillset.
 
 
 ## What I do
