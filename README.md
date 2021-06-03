@@ -8,7 +8,7 @@
 ## What I do
 I do the whole SEO digital marketing & growth consulting thing  📈   
 - [x] I'm Head of Search at [The Action Network](https://www.actionnetwork.com/), a sports betting media company, driving audience expansion & new bettor affiliate acquisition as states legalize  
-- [x] Start up + agency background working with brands like crunchbase & Adobe
+- [x] Start up + agency background working with brands like crunchbase & Adobe 
 - [x] Scored 5/5 in SEO, Vision, Market Approach, and Execution roadmap in 2019's Q3 Forrester Wave for Performance Marketing (Wpromote also ranked #1, [check it out](https://www.wpromote.com/forrester-wave))
 
 
