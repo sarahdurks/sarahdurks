@@ -1,11 +1,7 @@
 ![Frame 44 (1)](https://user-images.githubusercontent.com/77648727/109909207-8a0de780-7c5a-11eb-8534-428d91ad6dfa.png) 
 
 ## About Me
-- Hi, I’m @sarahdurks  👋   
-- Currently enrolled UC Berkeley's coding bootcamp and here to round out my technical skillset.
-
-
-## What I do
+Hi, I’m @sarahdurks  👋   
 I do the whole SEO digital marketing & growth consulting thing  📈   
 - [x] I'm Head of Search at [The Action Network](https://www.actionnetwork.com/), a sports betting media company, driving audience expansion & new bettor affiliate acquisition as states legalize  
 - [x] Start up + agency background working with brands like crunchbase & Adobe 
